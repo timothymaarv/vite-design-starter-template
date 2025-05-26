@@ -1,0 +1,60 @@
+@font-face {
+    font-family: "Suisse";
+    src:
+        url("/fonts/suisse/suisse-regular.woff") format("woff"),
+        url("/fonts/suisse/suisse-regular.woff2") format("woff2");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Suisse";
+    src:
+        url("/fonts/suisse/suisse-book.woff") format("woff"),
+        url("/fonts/suisse/suisse-book.woff2") format("woff2");
+    font-weight: 450;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Suisse";
+    src:
+        url("/fonts/suisse/suisse-medium.woff") format("woff"),
+        url("/fonts/suisse/suisse-medium.woff2") format("woff2");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: "TWK Laussane";
+    src:
+        url("/fonts/laussane/regular.woff") format("woff"),
+        url("/fonts/laussane/regular.woff2") format("woff2");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "TWK Laussane";
+    src:
+        url("/fonts/laussane/book.woff") format("woff"),
+        url("/fonts/laussane/book.woff2") format("woff2");
+    font-weight: 450;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "TWK Laussane";
+    src:
+        url("/fonts/laussane/medium.woff") format("woff"),
+        url("/fonts/laussane/medium.woff2") format("woff2");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
